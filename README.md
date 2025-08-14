@@ -36,6 +36,12 @@ This project aims to monitor the environment by deploying low-cost Internet of T
 -   **`IOT19_Analysis.ipynb`**:
     -   **Function**: This notebook contains all the pre-processing steps performed before calibration.
     -   **Details**: It includes the code for data loading, outlier detection and removal, time alignment of sensor data, and exploratory analysis in both the time and frequency domains.
+    -   
+## Project Workflow
+
+1.  **Data Pre-processing**: Load raw sensor data, handle outliers, and perform time alignment (`IOT19_Analysis.ipynb`).
+2.  **Model Training (Calibration)**: Train machine learning models using the cleaned calibration data to map low-cost sensor readings to high-precision sensor readings (`IOT19_Calibration&validation.ipynb`).
+3.  **Model Evaluation (Validation)**: Test the trained models on a separate, unseen validation dataset to confirm their accuracy (`IOT19_Calibration&validation.ipynb`).
 
 -   **`IOT19_Calibration&validation.ipynb`**:
     -   **Function**: This notebook contains the core logic for the calibration and validation of the low-cost sensor.
