@@ -1,24 +1,15 @@
 # Calibration-and-Validation-of-Environmental-Low-Cost-Sensors-2025-Group19-
 This project aims to monitor the environment by deploying low-cost Internet of Things (IoT) sensors. The core task is to validate the accuracy of these low-cost sensors using high-precision ones. If systematic errors are found, the low-cost sensors will be calibrated to correct their measurement data during operation, ensuring data reliability.
 ## Repository Structure & File Description
-├── 7_9_10.csv
-
-├── co2.csv
-
-├── RH.csv
-
-├── T.csv
-
-├── Calibration.csv
-
-├── Calibration_cleaned.csv
-
-├── Validation.csv
-
-├── validation_cleaned.csv
-
-├── IOT19_Analysis.ipynb
-
+├── 7_9_10.csv<br>
+├── co2.csv<br>
+├── RH.csv<br>
+├── T.csv<br>
+├── Calibration.csv<br>
+├── Calibration_cleaned.csv<br>
+├── Validation.csv<br>
+├── validation_cleaned.csv<br>
+├── IOT19_Analysis.ipynb<br>
 └── IOT19_Calibration&validation.ipynb
 
 ### Data Files
