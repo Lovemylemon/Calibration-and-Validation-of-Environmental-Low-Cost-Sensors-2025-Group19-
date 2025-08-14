@@ -2,15 +2,25 @@
 This project aims to monitor the environment by deploying low-cost Internet of Things (IoT) sensors. The core task is to validate the accuracy of these low-cost sensors using high-precision ones. If systematic errors are found, the low-cost sensors will be calibrated to correct their measurement data during operation, ensuring data reliability.
 ## Repository Structure & File Description
 ├── 7_9_10.csv
+
 ├── co2.csv
+
 ├── RH.csv
+
 ├── T.csv
+
 ├── Calibration.csv
+
 ├── Calibration_cleaned.csv
+
 ├── Validation.csv
+
 ├── validation_cleaned.csv
+
 ├── IOT19_Analysis.ipynb
+
 └── IOT19_Calibration&validation.ipynb
+
 ### Data Files
 
 -   **`7_9_10.csv`**:
