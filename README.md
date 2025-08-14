@@ -1,5 +1,9 @@
-# Calibration-and-Validation-of-Environmental-Low-Cost-Sensors-2025-Group19-
+# Calibration-and-Validation-of-Environmental-Low-Cost-Sensors-2025-Group19
 This project aims to monitor the environment by deploying low-cost Internet of Things (IoT) sensors. The core task is to validate the accuracy of these low-cost sensors using high-precision ones. If systematic errors are found, the low-cost sensors will be calibrated to correct their measurement data during operation, ensuring data reliability.
+## Project Wiki
+
+For more detailed documentation, please visit our project **[Wiki](https://collab.dvb.bayern/spaces/TUMgeosensorweb/pages/1732580189/Group-19+Calibration+and+Validation+of+Environmental+Low-Cost+Sensors)**.
+
 ## Repository Structure & File Description
 ├── 7_9_10.csv<br>
 ├── co2.csv<br>
